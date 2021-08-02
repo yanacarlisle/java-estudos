@@ -1,0 +1,11 @@
+Como importar um projeto compactado no Eclipse
+
+1 - Clique com botão direito nesta pasta compactada, selecione 'Extrair tudo' e clique em 'Extrair'
+
+2 - Abra o Eclipse e Vá em File -> Import...
+
+3 - Na janela que abriu, abra a pasta General, selecione 'Existing Projects into Workspace' e clique em 'Next'
+
+4 - Na primeira opção 'Select root directory', clique em 'Browse...' e selecione a pasta descompactada do projeto
+
+5 - Por fim, basta clicar em 'Finish'
